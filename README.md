@@ -10,4 +10,3 @@
 
 new main "D"
 comiit_2
-comiit_4
