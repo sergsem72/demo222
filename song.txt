@@ -14,4 +14,6 @@ feature5
 feature6
 commit2
 feature5
+feature5
+feature6
 
